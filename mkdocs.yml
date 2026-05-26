@@ -1,0 +1,17 @@
+# mkdocs.yml
+site_name : FSManager Project - batch calculation of FactSage files with GUI.
+site_url: https://evnekdev.github.io/fsmanager-docs/
+
+
+extra_css:
+  - stylesheets/extra.css
+  
+theme:
+  name: material
+  
+nav:
+  - Home :
+    - Overview : index.md
+    - Theoretical basis: theory.md
+  
+  
